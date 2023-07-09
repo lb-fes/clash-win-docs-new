@@ -15,6 +15,7 @@
   - Upload Traffic 根据上行流量
   - Download Traffic 根据下行流量
   - Time 根据建立连接的时间
+  - Destinaion: 连接的目的地址
 - Close All: 关闭全部连接
 
 ## 连接显示区域
@@ -30,7 +31,7 @@
 - Network: 连接协议
 - Traffic: 此连接上/下行流量
 - Source: 连接来源地址
-- Destinaion: 连接目的地址（如 Host 已被 DNS 解析则显示对应 IP 地址）
+- Destinaion: 连接的目的地址（如 Host 已被 DNS 解析则显示对应 IP 地址）
 - Rule: 连接命中的规则
 - Process Path: 连接发起应用路径（需要经过 PROCESS-NAME 规则触发）
 - Chains: 连接策略链
