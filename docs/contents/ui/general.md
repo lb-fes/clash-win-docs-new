@@ -12,7 +12,7 @@
 - Log Level：Clash 核心日志等级
 - IPV6: 是否启用 IPV6
 - Home Directory：Clash 配置文件目录（不建议修改此目录下文件内容）
-- GeoIP Database：GeoIP 数据库更新
+- GeoIP Database：GeoIP 数据库更新 （macOS 可用）
 - UWP Loopback：UWP 应用联网限制解除工具
 - Service Mode: 虚拟网卡安装(TUN 模式)
   - 地球图标：显示 Service Mode 在线状态
