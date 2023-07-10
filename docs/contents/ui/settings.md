@@ -180,6 +180,13 @@
 - Latency：延迟排序
 - Alphabet：字母表排序
 
+### Delay Type
+
+设置延时的计算方式
+
+- Default 一次延迟测试的延时
+- Mean Dalay 两次延迟测试的平均延时
+
 ### Latency Test URL
 
 设置 Proxies 界面中点击延迟测试按钮时使用的 URL
