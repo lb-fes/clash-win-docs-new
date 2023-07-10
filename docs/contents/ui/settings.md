@@ -223,6 +223,10 @@
 
 设置切换 mode 时是否打断所有连接
 
+### Show Process If Present
+
+设置是否在 Connections 模块中显示进程名（如果进程名存在）
+
 ### Display Chain Type
 
 设置 Connections 界面中显示的 chain 类型
